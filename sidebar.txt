@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[akf:home|Door43 (akf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-akf|d43-akf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-akf/archive/master.zip|d43-akf.zip]]
+
+**Recent Changes**
+{{changes>ns = akf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/akf|Ethnologue data]]
+
